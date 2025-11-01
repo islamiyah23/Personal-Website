@@ -13,8 +13,8 @@ const fontMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "amorim",
-  description: "amorim",
+  title: "PersonalWeb-Islamiyah Dinar Kinanti",
+  description: "miya",
 };
 
 export default function RootLayout({
